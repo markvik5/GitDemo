@@ -18,7 +18,7 @@ public class Demo {
 				if (c == s.length()) {
 					c = 0;
 				}
-				if(s.charAt(0) == b.charAt(i) ) {
+				if (s.charAt(0) == b.charAt(i)) {
 					a++;
 				}
 			}
@@ -30,6 +30,6 @@ public class Demo {
 	public static void main(String[] args) {
 		String s = "aba";
 		System.out.println(repeatedString(s, 10));
-
+		System.out.println("HEllo");
 	}
 }
