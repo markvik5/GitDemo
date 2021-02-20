@@ -31,5 +31,6 @@ public class Demo {
 		String s = "aba";
 		System.out.println(repeatedString(s, 10));
 		System.out.println("HEllo");
+		System.out.println("Hi how are you");
 	}
 }

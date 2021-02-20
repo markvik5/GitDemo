@@ -37,9 +37,9 @@ public class Day_1 {
 	}
 
 	public void check_Number_odd_Even_without_if_else(int number) {
-		String st[] = {"Even","odd"};
-		System.out.println(number + " is " + st[number%2]);
-
+		String st[] = { "Even", "odd" };
+		System.out.println(number + " is " + st[number % 2]);
+		System.out.println("GIt check");
 	}
 
 }
